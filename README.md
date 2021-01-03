@@ -35,8 +35,9 @@
    then run: 
       
       npm install.
-   
-   Then in the server/config/config.json:
+      
+  ## Configuration
+   In the server/config/config.json:
    
     - put your desired Port number
     - The Mongodb_url
