@@ -48,7 +48,7 @@
     You are open to add or remove any data in the user model.
    
    
-   At last in server/server.js
+   At last in server
    
    put your ip address in address variable and run node server/server.js and here you go your database has been created automatically once the project runs successfully
    and the url that you will use to make http requests will be logged.
